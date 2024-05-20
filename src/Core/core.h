@@ -1,1 +1,1 @@
-#include "..\deathspeak.hpp"
+#include "../deathspeak.h"
